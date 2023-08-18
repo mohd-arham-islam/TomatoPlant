@@ -34,8 +34,14 @@ The culmination of my efforts yielded remarkable accuracy results:
 * Validation accuracy: **92.55%**
 * Test accuracy: **92.94%**
 
+![image](https://github.com/mohd-arham-islam/TomatoPlant/assets/111959286/8ad1d4d7-a1ea-46fd-b1a3-6bb34e988a4f)
+
+
 ## Envisioning Predictions and Visualization
 The fruits of my labor came to life as I visualized model predictions, creating plots that showcased confidence levels, actual labels, and the predicted labels. This visual insight added a layer of clarity and understanding to my classification endeavors.
+
+![image](https://github.com/mohd-arham-islam/TomatoPlant/assets/111959286/da7b6744-d9f3-4970-9b7d-bf7a897e9414)
+
 
 ## Ensuring Model Persistence
 To secure my work, I preserved my trained model in the enduring **.h5** format. This thoughtful preservation strategy ensures easy access, retrieval, and deployment whenever the need arises.
