@@ -1,5 +1,3 @@
- ![image](https://github.com/mohd-arham-islam/TomatoPlant/assets/111959286/47e3c59c-5fa8-49df-9a0d-cb02ff590e29)
-
 # TomatoPlant Disease Detection: My Deep Learning Journey
 ## Introduction
 Welcome to my TomatoPlant Disease Detection project! Join me as I delve into the world of Deep Learning, where I've developed a model using TensorFlow and Keras to accurately detect diseases in tomato plants. Through the power of Convolutional Neural Networks (CNNs) and Dense Layers, I've achieved impressive results in classifying these plant diseases.
@@ -19,6 +17,9 @@ I began by curating a diverse dataset that encompasses various tomato plant dise
 
 ## Crafting the Model Architecture
 My model architecture was carefully crafted to ensure optimal disease classification. I harnessed the potential of multiple Convolutional Layers, skillfully paired with Max Pooling Layers, to create a flattened vector. This paved the way for a series of Dense Layers, responsible for both feature extraction and precise classification.
+
+![image](https://github.com/mohd-arham-islam/TomatoPlant/assets/111959286/92b21a92-195a-4bdc-b857-3dfd8d7f846f)
+
 
 ## Training, Validation, and Triumph
 
